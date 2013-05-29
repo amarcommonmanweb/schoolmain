@@ -1,0 +1,12 @@
+/* 
+    Document   : schoolmain-main
+    Created on : 15 May, 2013, 8:56:54 AM
+    Author     : Amar
+    Description:
+       This style sheet applies from the home page to the dashboard
+*/
+
+body{
+    background: #ff0000;
+    color: #0000ff;
+}
